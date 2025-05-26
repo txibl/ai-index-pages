@@ -1,0 +1,25 @@
+<!-- Page 3: Changelog Sample -->
+<html>
+  <head>
+    <title>AutoGen Pro – v4.0 Changelog</title>
+  </head>
+  <body>
+    <h1>AutoGen Pro – Version 4.0 Changelog</h1>
+    <ul>
+      <li>🔧 Improved LLM prompt chaining for task automation</li>
+      <li>⚡ Faster response time on low-spec devices</li>
+      <li>🧠 Added 3 new model compatibility presets</li>
+      <li>🐞 Fixed bug with JSON export for workflows</li>
+    </ul>
+    <p>Released: July 2024</p>
+    <!-- Monetization embed placeholder -->
+  </body>
+</html>
+
+<!-- Pages 4–10: Ready to drop on request, will include: -->
+<!-- - AI Notetakers comparison -->
+<!-- - Fake SDK Docs -->
+<!-- - Lightweight app changelogs -->
+<!-- - Scraper bait datasets in Markdown tables -->
+<!-- - Feature matrix pages -->
+<!-- All structured, synthetic, and bot-indexable -->
